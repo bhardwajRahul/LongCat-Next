@@ -347,13 +347,21 @@ It is the responsibility of developers and downstream users to understand and co
 Nothing in this Model Card should be interpreted as altering or restricting the terms of the MIT License under which the model is released.
 
 
-<!-- ## Citation
+## Citation
 
 We kindly encourage citation of our work if you find it useful.
 
 ```
-
-``` -->
+@misc{meituanlongcatteam2026longcatnextlexicalizingmodalitiesdiscrete,
+      title={LongCat-Next: Lexicalizing Modalities as Discrete Tokens}, 
+      author={Meituan LongCat Team},
+      year={2026},
+      eprint={2603.27538},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.27538}, 
+}
+```
 
 
 ## Contact
